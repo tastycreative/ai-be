@@ -7,6 +7,9 @@ python-dotenv==1.0.0
 # Production ready
 requests==2.31.0
 
-# Add your project dependencies below
+# Swagger / API documentation
+flask-restx==1.3.1
+
+# Optional: for data processing
 # pandas==2.1.4
 # numpy==1.26.2
